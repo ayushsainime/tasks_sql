@@ -8,7 +8,7 @@ Getting Started
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/sql-learning-repo.git
+git clone https://github.com/ayushsainime/tasks_sql
 
 
 
